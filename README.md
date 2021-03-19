@@ -87,7 +87,7 @@ This repo contains both the client and server code for running the entire [isowo
         ```sh
         make bootstrap-client
         ```
-    1. If you want to build the client and server make sure [PostgreSQL](https://www.postgresql.org/) is installed and running, and then run the following bootstrap command:
+    1. If you want to build the client and server make sur [PostgreSQL](https://www.postgresql.org/) is installed and running, and then run the following bootstrap command:
         ```sh
         make bootstrap
         ```
